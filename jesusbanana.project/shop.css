@@ -1,0 +1,25 @@
+#hero {
+    background-color: black;
+    height: 120vh;
+    width: 100%;
+    background-size: cover;
+    background-position: top 0 right 0;
+    padding: 0 auto;
+    color: white;
+    resize: both;
+
+}
+
+
+#button button {
+    transform: translateY(-100px);
+}
+
+#hero table img {
+    height: 100%;
+    width: 100%;
+}
+
+
+
+
